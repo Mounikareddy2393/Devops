@@ -17,3 +17,8 @@ Step 8: status command to verify that it started successfully
 sudo systemctl start jenkins
 
 Jenkins running default port 8080, so you need to open this port.
+
+What is Maven
+What is POM file 
+Installation of Maven 
+Setup Java and Maven Configuration in Jenkins .
